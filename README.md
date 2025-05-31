@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jisu-9920
+- 👋 Hi, I’m @jimit kumar
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...c
 - 💞️ I’m looking to collaborate on ...c and c++
